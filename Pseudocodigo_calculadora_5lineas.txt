@@ -1,0 +1,10 @@
+Pseudocódigo de calculadora en 5 líneas:
+
+Inicio
+
+DEFINIR num1, num2, resultado COMO REAL 
+
+IMPRIMIR "Ingrese el primer y segundo número, separados por una coma:"
+LEER num1, num2
+
+IMPRIMIT ("suma:" resultado = num1 + num2 ", resta:" resultado = num1 - num2 ", multiplicacion" resultado = num1 * num2 ", division" resultado = num1 / num2)
